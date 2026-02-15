@@ -17,5 +17,5 @@ git commit -m "Auto deploy %date% %time%"
 git push
 
 echo =============================
-echo DONE ✅
+echo DONE
 pause
