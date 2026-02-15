@@ -13,7 +13,7 @@ export default function Contact() {
           <p><strong>Phone:</strong> +254 700 000 000</p>
 
           <div className="social-icons">
-            {/* <a href="https://facebook.com/okuna91" target="_blank" rel="noreferrer">
+            <a href="https://facebook.com/okuna91" target="_blank" rel="noreferrer">
               <FaFacebookF />
             </a>
             <a href="https://twitter.com/" target="_blank" rel="noreferrer">
@@ -24,7 +24,7 @@ export default function Contact() {
             </a>
             <a href="https://linkedin.com/" target="_blank" rel="noreferrer">
               <FaLinkedinIn />
-            </a> */}
+            </a>
           </div>
         </div>
 
