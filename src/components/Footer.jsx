@@ -12,11 +12,12 @@ export default function Footer() {
 
         {/* Social Links */}
         <div className="footer-social">
-          <a href="https://facebook.com/okuna91" target="_blank" rel="noreferrer"><FaFacebookF /></a>
+          {/* <a href="https://facebook.com/okuna91" target="_blank" rel="noreferrer"><FaFacebookF /></a>
           <a href="https://twitter.com/" target="_blank" rel="noreferrer"><FaTwitter /></a>
           <a href="https://instagram.com/" target="_blank" rel="noreferrer"><FaInstagram /></a>
-          <a href="https://linkedin.com/" target="_blank" rel="noreferrer"><FaLinkedinIn /></a>
+          <a href="https://linkedin.com/" target="_blank" rel="noreferrer"><FaLinkedinIn /></a> */}
         </div>
+        
 
         {/* Copyright */}
         <div className="footer-copy">
