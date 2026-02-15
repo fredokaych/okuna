@@ -18,4 +18,3 @@ git push
 
 echo =============================
 echo DONE
-pause
