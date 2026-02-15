@@ -6,7 +6,7 @@ export default function Home() {
     <>
       <Hero />
       <section className="issues-preview section">
-        <h2>Building a Better Suna West</h2>
+        <h2>Building a Better Suna East</h2>
         <div className="issues-grid">
           <IssueCard title="Environment" text="Protecting our natural resources and promoting conservation." />
           <IssueCard title="Solar Energy" text="Expanding renewable energy access to homes and schools." />

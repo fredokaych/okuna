@@ -1,5 +1,3 @@
-
-
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { HashRouter } from "react-router-dom";
@@ -13,7 +11,7 @@ AOS.init({
 });
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-<HashRouter>
-  <App />
-</HashRouter>
+  <HashRouter>
+    <App />
+  </HashRouter>
 );

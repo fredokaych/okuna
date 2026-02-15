@@ -1,3 +1,6 @@
+
+import { Link } from "react-router-dom";
+
 export default function Hero() {
   return (
     <section className="hero">
@@ -5,8 +8,8 @@ export default function Hero() {
         <h1>Victor Okuna for Member of Parliament</h1>
         <p>Engineer. Environmental Advocate. Solar Energy Champion.</p>
         <div className="hero-buttons">
-          <a href="/get-involved" className="primary-btn">Join the Movement</a>
-          <a href="/donate" className="secondary-btn">Donate</a>
+          <Link to="/get-involved" className="primary-btn">Join the Movement</Link>
+          <Link to="/donate" className="secondary-btn">Donate</Link>
         </div>
       </div>
     </section>
