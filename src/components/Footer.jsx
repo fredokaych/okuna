@@ -18,7 +18,6 @@ export default function Footer() {
           <a href="https://linkedin.com/" target="_blank" rel="noreferrer"><FaLinkedinIn /></a>
         </div>
         
-
         {/* Copyright */}
         <div className="footer-copy">
           <p>© {new Date().getFullYear()} Victor Okuna Campaign. All Rights Reserved.</p>
