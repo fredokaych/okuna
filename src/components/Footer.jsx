@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="footer-container">
         {/* Branding */}
         <div className="footer-branding">
-          <h3>Victor Okuna for MP – Suna West</h3>
+          <h3>Victor Okuna for MP – Suna East</h3>
           <p>Engineer. Environmental Advocate. Solar Energy Champion.</p>
         </div>
 
